@@ -12,8 +12,6 @@ Jianqiao Liu: jliu498@ucr.edu
 
 ### OVERALL DESCRIPTION
 
-### OVERALL DESCRIPTION
-
 For this project, we have two datasets, one is the locations for every station across the world, the other is the recordings of the weather from these stations. The gola is to find the states which have the most stable temperature which means we need to find the difference between the hottest month and the coldest month. Thus, we divide this project into four phase. The first phase is to find the locations in United States. The second phase is to union all the recording together. The third phase is to find the month with the lowest temperature and the highest temperature for each state. Finally, we need to calculate the difference between these two months.
 
 ### DESCRIPTION OF EACH STEP
@@ -26,4 +24,4 @@ For this project, we have two datasets, one is the locations for every station a
 
 ### TOTAL RUNTIME
 
-Using the *time* library to calculate the runtime, the result was 129.25832295417786 seconds. 
+Using the *time* library to calculate the runtime, the result was 129.26 seconds. 

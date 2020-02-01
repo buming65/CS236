@@ -25,8 +25,8 @@
       <file leaf-file-name="Temperature.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ucr/edu/cs/cs236/Temperature.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="472">
-              <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+            <state relative-caret-position="437">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -60,7 +60,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="33" />
     <option name="y" value="23" />
     <option name="width" value="1647" />
@@ -196,15 +196,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1573750144797</updated>
-      <workItem from="1573750149756" duration="9052000" />
+      <workItem from="1573750149756" duration="9873000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9052000" />
+    <option name="totallyTimeSpent" value="9873000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="33" y="23" width="1647" height="1027" extended-state="1" />
+    <frame x="33" y="23" width="1647" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -217,7 +217,7 @@
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5018484" side_tool="true" weight="0.2763441" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="3" sideWeight="0.49815157" visible="true" weight="0.2763441" />
+      <window_info anchor="bottom" id="Run" order="3" sideWeight="0.49815157" weight="0.2763441" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="13" />
       <window_info id="Capture Tool" order="2" />
@@ -278,8 +278,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ucr/edu/cs/cs236/Temperature.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="472">
-          <caret line="27" column="43" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        <state relative-caret-position="437">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
